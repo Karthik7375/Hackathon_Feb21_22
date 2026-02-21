@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+redis
+pydantic
+transformers
+torch
+python-dotenv
+sentence-transformers
+numpy
